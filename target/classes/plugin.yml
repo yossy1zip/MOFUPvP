@@ -1,0 +1,13 @@
+name: MOFUPvP
+version: 1.0-SNAPSHOT
+main: net.mofucraft.mofupvp.MOFUPvP
+authors: [yossy_zip]
+website: mofucraft.net
+
+commands:
+  change:
+    description: マップを変更する
+
+permissions:
+  mofupvp.change:
+    default: op
